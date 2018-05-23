@@ -1,0 +1,20 @@
+.current {
+  font-family: serif;
+  font-style: bold;
+  font-size: 25px;
+  color: blue;
+}
+
+.previous {
+  font-family: sans-serif;
+  color: green;
+}
+
+.education {
+  font: comic-sans;
+  color: purple;
+}
+
+.boop {
+  text-align: center;
+}
